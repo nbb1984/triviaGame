@@ -1,0 +1,54 @@
+body {
+	background-color: #704214;
+}
+
+.jumbotron h1 {
+	font-family: "Angsana New", Arial, Helvetica, sans-serif;
+	text-align: center;
+	color:transparent;
+	text-shadow: 0px 0px 0.1px #FF8C00;
+}
+.jumbotron {
+	margin-top: 20px;
+	background-color: none;
+	border: 1px solid #ffffff;
+}
+.main-text {
+	padding-top: 30px;
+	text-align: center;
+}
+ p,
+ .trivia-question {
+  	color:#704214 ;
+  	font-size: 20px;
+  	margin-bottom: 20px;
+ }
+ .answers {
+ 	margin-top: 20px;
+ }
+ .picture-question {
+ 	height: 320px;
+ }
+
+.multiple-choice-answers {
+	padding-bottom: 10px;
+}
+
+.message-section {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.celebrate {
+	color:#704214;
+	font-size: 40px;
+	font-family: "Angsana New", Arial, Helvetica, sans-serif;
+}
+.btn {
+	background-color: #FF8C00;
+	margin: 10px;
+}
+
+.img {
+	border-radius: 4px;
+}
